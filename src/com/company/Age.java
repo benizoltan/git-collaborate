@@ -2,9 +2,10 @@ package com.company;
 
 public class Age {
 
-  public void count(int age) {
-    age = 5;
-    System.out.println("Countimng the countless " + age);
+  public void count() {
+    int age = 5;
+    String text = "text";
+    System.out.println(age + text);
   }
 
 }
