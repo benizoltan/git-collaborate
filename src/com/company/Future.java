@@ -4,8 +4,9 @@ package com.company;
 public class Future {
 
 
-  public Future() {
-    System.out.println("vízöntő");
+  public static void future() {
+    String parameter = "";
+    System.out.println(parameter);
   }
 
 }
