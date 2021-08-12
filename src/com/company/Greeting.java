@@ -1,7 +1,7 @@
 package com.company;
 
 public class Greeting {
-    public static void greet() {
-        System.out.println("Hello Zoli");
+    public static void greet(String name) {
+        System.out.println("Hello "+name+"!");
     }
 }
