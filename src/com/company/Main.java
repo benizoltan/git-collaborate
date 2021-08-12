@@ -6,8 +6,4 @@ public class Main {
 
     }
 
-    public static int count() {
-        return 28;
-    }
-
 }
