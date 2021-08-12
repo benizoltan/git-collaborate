@@ -5,7 +5,7 @@ public class Future {
 
 
   public Future() {
-    System.out.println("vízöntő");
+    System.out.println("OX");
   }
 
 }
